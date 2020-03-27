@@ -1,1 +1,1 @@
-# 01-cognitive-services
+# Lab 01 - Cognitive Services
