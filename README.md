@@ -4,6 +4,9 @@ Cognitive Services bring AI within reach of every developer — without requirin
 ## Sub-lab 01 - Face API
 Detect, identify, and analyze faces in images and videos. Build on top of this technology to support various scenarios—for example, authenticate people for access, count people in a space for crowd control, or garner crowd insights for media campaigns.
 
+## Sub-lab 02 - Custom vision
+Customize and embed state-of-the-art computer vision for specific domains. Build frictionless customer experiences, optimize manufacturing processes, accelerate digital marketing campaigns—and more. No machine learning expertise is required.
+
 ## Sub-lab 03 - Real time translations via Azure Cognitive Services and Functions
 
 The main idea is to build a real-time serverless application with Translation and "Speech to text" Cognitive services from Microsoft.
